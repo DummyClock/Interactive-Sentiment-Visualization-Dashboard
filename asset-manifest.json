@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Interactive-Sentiment-Visualization-Dashboard/static/css/main.7c4c5381.css",
+    "main.js": "/Interactive-Sentiment-Visualization-Dashboard/static/js/main.b2277619.js",
+    "static/js/453.0a2413e0.chunk.js": "/Interactive-Sentiment-Visualization-Dashboard/static/js/453.0a2413e0.chunk.js",
+    "index.html": "/Interactive-Sentiment-Visualization-Dashboard/index.html",
+    "main.7c4c5381.css.map": "/Interactive-Sentiment-Visualization-Dashboard/static/css/main.7c4c5381.css.map",
+    "main.b2277619.js.map": "/Interactive-Sentiment-Visualization-Dashboard/static/js/main.b2277619.js.map",
+    "453.0a2413e0.chunk.js.map": "/Interactive-Sentiment-Visualization-Dashboard/static/js/453.0a2413e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4c5381.css",
+    "static/js/main.b2277619.js"
+  ]
+}
